@@ -1,0 +1,16 @@
+
+node_modules/
+dist/
+*.log
+.env
+.DS_Store
+.idea/
+.vscode/
+coverage/
+*.tsbuildinfo
+# Optional: Ignore build artifacts
+build/
+# Optional: Ignore test output
+test-output/
+
+.next
